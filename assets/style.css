@@ -233,7 +233,7 @@ a {
   position: absolute;
   display: flex;
   top: 40vh;
-  transform: translateY(-50%) translateX(100%) rotate(7deg);
+  transform: translateY(-50%) translateX(110%) rotate(7deg);
   width: 100%;
   flex-direction: column;
   gap: var(--space-xl);
