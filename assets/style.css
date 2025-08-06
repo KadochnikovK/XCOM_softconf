@@ -210,6 +210,7 @@ a {
 }
 .header__logo-img {
   height: 100%;
+  max-width: 30vw;
 }
 .header__link-icon {
   font-size: calc(var(--fs-md) * 0.8);
