@@ -12,6 +12,7 @@ body {
   overflow-x: hidden;
   font-family: "Main";
   background: #000;
+  width: 100%;
 }
 
 h1,
